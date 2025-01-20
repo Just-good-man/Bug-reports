@@ -14,3 +14,10 @@
 # Баг-репорты
 1. Веб-сайт "Кандидат в космонавты" - Баг-репорт. Тест-дизайн. Чек-лист. Пользовательский сценарий
 https://docs.google.com/spreadsheets/d/1Ee5F8wl4M6f_ZWH3yUgIVX6FDDtPPT6o0OtHkMEiFjA/edit?usp=sharing
+
+
+
+
+# Тест-Кейсы
+1. Магазин «Все для огорода»
+https://docs.google.com/spreadsheets/d/1VlDB9zYBAOaCvG_Rs3v53kkRFfPE7Qu0jFYriYofyl0/edit?usp=sharing
