@@ -31,5 +31,5 @@
 
 
 # Тест-Кейсы
-1. Магазин «Все для огорода»
+1. Магазин «Все для огорода» 2 тест-кейса
 https://docs.google.com/spreadsheets/d/1VlDB9zYBAOaCvG_Rs3v53kkRFfPE7Qu0jFYriYofyl0/edit?usp=sharing
