@@ -13,6 +13,9 @@
   
 # Баг-репорты (Ручное тестирование)
 
+Cтраница регистрации и входа (Chrome DevTools) Локализация ошибок в HTML|CSS (Black-box)
+    https://docs.google.com/spreadsheets/d/1nF-2T1K26VLBRYElNjPIHuKkWTrTS0QV/edit?usp=sharing&ouid=107565565373491475866&rtpof=true&sd=true
+
 Сайт кинотеатра (Chrome DevTools) Локализация ошибок в HTML|CSS (Black-box)
     https://docs.google.com/spreadsheets/d/1ieZIrDRpuOsZIg2djMgm_B6HyDP9sZ-epl9KXtwiF9g/edit?usp=sharing
 
