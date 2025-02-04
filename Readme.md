@@ -14,7 +14,6 @@
 # Баг-репорты (Ручное тестирование)
 
 Сайт кинотеатра (Chrome DevTools) Локализация ошибок в HTML|CSS (Black-box)
-
     https://docs.google.com/spreadsheets/d/1ieZIrDRpuOsZIg2djMgm_B6HyDP9sZ-epl9KXtwiF9g/edit?usp=sharing
 
 Сайт онлайн курсов (Chrome DevTools). Локализация ошибок в HTML|CSS (Black-box)
