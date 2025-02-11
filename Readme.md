@@ -13,6 +13,9 @@
   
 # Баг-репорты (Ручное тестирование)
 
+Тест API запросов через Postman
+    https://docs.google.com/spreadsheets/d/1aI7Z76JCobIdY7vR1Zo6cyie5-oUarj90FZLBnTOQ7g/edit?usp=sharing
+
 Cтраница регистрации и входа (Chrome DevTools) Локализация ошибок в HTML|CSS (Black-box)
     https://docs.google.com/spreadsheets/d/1nF-2T1K26VLBRYElNjPIHuKkWTrTS0QV/edit?usp=sharing&ouid=107565565373491475866&rtpof=true&sd=true
 
