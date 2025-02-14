@@ -12,6 +12,8 @@
   11. Дополнительная информация
   
 # Баг-репорты (Ручное тестирование)
+Тестирование CRUD запросов в Postman
+    https://docs.google.com/spreadsheets/d/1aI7Z76JCobIdY7vR1Zo6cyie5-oUarj90FZLBnTOQ7g/edit?usp=sharing
 
 Тест API запросов через Postman (Grey-box)
     https://docs.google.com/spreadsheets/d/1aI7Z76JCobIdY7vR1Zo6cyie5-oUarj90FZLBnTOQ7g/edit?usp=sharing
