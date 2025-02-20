@@ -45,9 +45,3 @@ Cтраница регистрации и входа (Chrome DevTools) Лока�
 Веб-сайт Управдом (Grey-box)
     https://docs.google.com/spreadsheets/d/1qRXr2W1LL3dH19FB3EuqoyrErjokWyk_4wnNqAfvgZI/edit?usp=sharing
 
-
-
-
-# Тест-Кейсы
-1. Магазин «Все для огорода» 2 тест-кейса
-https://docs.google.com/spreadsheets/d/1VlDB9zYBAOaCvG_Rs3v53kkRFfPE7Qu0jFYriYofyl0/edit?usp=sharing
